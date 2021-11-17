@@ -2,10 +2,27 @@
 Rifels selling  application
 ### Hosted On     
 <img src="https://img.shields.io/badge/Deployed%20in-Heroku-green" alt="firebase"/>
-Live Link 
+Live Website Link 
 
 ```javascript
-https://tourism-backend-api.herokuapp.com/
+
+https://assault-rifles.web.app/
+ 
+```
+
+Live API Link 
+
+```javascript
+
+https://assault-rifles-backend-api.herokuapp.com/
+ 
+```
+ 
+Font End application
+
+```javascript
+
+https://github.com/programming-hero-web-course-4/niche-website-client-side-AhnabShahin
  
 ```
  
