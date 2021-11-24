@@ -22,7 +22,7 @@ Font End application
 
 ```javascript
 
-https://github.com/programming-hero-web-course-4/niche-website-client-side-AhnabShahin
+https://github.com/AhnabShahin/Assault-Rifles-client-side
  
 ```
  
